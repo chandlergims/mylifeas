@@ -32,6 +32,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "My Life As Creator App",
   description: "Create, share, and discover amazing My Life As strips",
+  icons: {
+    icon: "/logo.jpg",
+    apple: "/logo.jpg"
+  },
 };
 
 export default function RootLayout({

@@ -37,7 +37,7 @@ const Navbar = ({ toggleSidebar }: NavbarProps) => {
       <div className="px-4 flex justify-between items-center">
         <div className="flex items-center">
           <Link href="/" className="flex items-center">
-            <span className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#f0b90b] to-[#f0b90b] font-['SK Concretica'] tracking-wide">My Life As</span>
+            <span className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#f0b90b] to-[#f0b90b] font-['SK Concretica'] tracking-wide">MyLifeAs</span>
           </Link>
         </div>
         

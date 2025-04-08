@@ -171,7 +171,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row justify-between">
               <div className="max-w-3xl">
                 <h1 className="text-4xl md:text-5xl font-bold text-white mb-4" style={{ fontFamily: 'SK Concretica, system-ui, sans-serif' }}>
-                  My Life As
+                  MyLifeAs
                 </h1>
                 <p className="text-lg md:text-xl text-white mb-6" style={{ fontFamily: 'SK Concretica, system-ui, sans-serif' }}>
                   Create and share your life stories in comic form!
@@ -185,7 +185,7 @@ export default function Home() {
                     <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
                     </svg>
-                    Create Your My Life As
+                    Create Your MyLifeAs
                   </Link>
                   <Link 
                     href="/rewards" 
